@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="22" viewBox="0 0 21 22">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_534" data-name="Rectangle 534" width="21" height="22" transform="translate(-1640.459 1090.109)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_113" data-name="Mask Group 113" transform="translate(1640.459 -1090.109)" clip-path="url(#clip-path)">
+    <g id="noun_diary_767406" transform="translate(-1637.792 1093.593)">
+      <g id="Group_1137" data-name="Group 1137" transform="translate(0.414 0)">
+        <g id="Group_1136" data-name="Group 1136">
+          <g id="Group_1135" data-name="Group 1135">
+            <path id="Path_2503" data-name="Path 2503" d="M13.141,11.391a.556.556,0,0,1-.555.555h-.639V2.431h.639a.556.556,0,0,1,.555.555ZM9.557,1.834H10.2a.55.55,0,0,1,.488.3.528.528,0,0,1,.032.077.542.542,0,0,1,.035.173v9.6a.542.542,0,0,1-.035.173.535.535,0,0,1-.032.078.55.55,0,0,1-.488.3H9.557Zm3.028-.6H11.5A1.738,1.738,0,0,0,10.2.64H9.148A1.74,1.74,0,0,0,7.807,0H7.168V7.765a.6.6,0,0,1-1.02.422l-1.37-1.37-1.37,1.37a.6.6,0,0,1-1.02-.422V0H1.75A1.751,1.751,0,0,0,0,1.749V12.586a1.752,1.752,0,0,0,1.75,1.75H7.807a1.738,1.738,0,0,0,1.306-.6H10.2a1.738,1.738,0,0,0,1.306-.6h1.083a1.752,1.752,0,0,0,1.75-1.75v-8.4a1.752,1.752,0,0,0-1.75-1.75Z" transform="translate(0 0)" fill-rule="evenodd"/>
+            <path id="Path_2504" data-name="Path 2504" d="M7.617,5.551l.772.772V0H6V6.323l.772-.772a.6.6,0,0,1,.845,0" transform="translate(-2.416 0)" fill-rule="evenodd"/>
+          </g>
+        </g>
+      </g>
+      <text id="Created_by_Ben_Davis" data-name="Created by Ben Davis" transform="translate(0.333 22.516)" font-size="2" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">Created by Ben Davis</tspan></text>
+      <text id="from_the_Noun_Project" data-name="from the Noun Project" transform="translate(0.333 25.516)" font-size="2" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">from the Noun Project</tspan></text>
+    </g>
+  </g>
+</svg>

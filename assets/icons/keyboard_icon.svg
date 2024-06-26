@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="18" viewBox="0 0 26 18">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_912" data-name="Rectangle 912" width="26" height="18" transform="translate(3366 228)" fill="#6a6a6a" opacity="0.647"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_239" data-name="Mask Group 239" transform="translate(-3366 -228)" clip-path="url(#clip-path)" style="isolation: isolate">
+    <g id="noun_Keyboard_287820" transform="translate(3368 224)">
+      <path id="Path_3276" data-name="Path 3276" d="M20,6H2A2.006,2.006,0,0,0,0,8V18.063a2.006,2.006,0,0,0,2,2H20a2.006,2.006,0,0,0,2-2V8A2.006,2.006,0,0,0,20,6ZM10,8h2v2H10Zm0,4h2v2H10ZM6,8H8v2H6Zm0,4H8v2H6ZM4,18H2V16H4Zm0-4H2V12H4Zm0-4H2V8H4Zm12,8H6V16H16Zm0-4H14V12h2Zm0-4H14V8h2Zm4,8H18V16h2Zm0-4H18V12h2Zm0-4H18V8h2Z" fill="#6a6a6a"/>
+      <text id="Created_by_Rflor" data-name="Created by Rflor" transform="translate(0 39)" fill="#6a6a6a" font-size="5" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">Created by Rflor</tspan></text>
+      <text id="from_the_Noun_Project" data-name="from the Noun Project" transform="translate(0 44)" fill="#6a6a6a" font-size="5" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">from the Noun Project</tspan></text>
+    </g>
+  </g>
+</svg>

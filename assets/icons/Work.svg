@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2434" height="2165" viewBox="0 0 2434 2165">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1073" data-name="Rectangle 1073" width="2434" height="2165" transform="translate(0.376 0.472)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0.28"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_292" data-name="Mask Group 292" transform="translate(-0.376 -0.471)" clip-path="url(#clip-path)">
+    <g id="noun_Work_1872973" transform="translate(0.378 182.653)">
+      <path id="Path_3468" data-name="Path 3468" d="M1026.438,115.844H821.75A102.344,102.344,0,0,1,719.406,13.5H3V371.7C3,541.272,140.463,678.735,310.031,678.735H1538.157c169.569,0,307.031-137.463,307.031-307.031V13.5H1128.782A102.344,102.344,0,0,1,1026.438,115.844Z" transform="translate(298.132 958.766)"/>
+      <path id="Path_3469" data-name="Path 3469" d="M1538.157,311.031H1231.126V208.688C1231.126,95.642,1139.484,4,1026.438,4H821.75C708.7,4,617.063,95.642,617.063,208.688V311.031H310.031C140.463,311.031,3,448.494,3,618.063V822.75H719.406A102.344,102.344,0,0,1,821.75,720.406h204.687A102.344,102.344,0,0,1,1128.782,822.75h716.407V618.063C1845.188,448.494,1707.726,311.031,1538.157,311.031Zm-409.375,0H719.406V208.688A102.462,102.462,0,0,1,821.75,106.344h204.687a102.462,102.462,0,0,1,102.344,102.344Z" transform="translate(298.132 -4)"/>
+      <text id="Created_by_Sophia_Bai" data-name="Created by Sophia Bai" transform="translate(-0.001 3403.818)" font-size="390" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Created by Sophia Bai</tspan></text>
+      <text id="from_the_Noun_Project" data-name="from the Noun Project" transform="translate(-0.001 3934.818)" font-size="390" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">from the Noun Project</tspan></text>
+    </g>
+  </g>
+</svg>
